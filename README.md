@@ -8,9 +8,12 @@ As you can see initially 3 empty window tabs which we can consider as 3 differen
 
 clone this repo.
 
-open up a terminal and write this command 
+open up a terminal and make sure you're in the FaceMeet directory and write this command 
 # npm install .
+followed by 
 # npm run devStart
 
 open up another terminal and write this command
 # peerjs --port 3001 (can be any port number of your choice)
+
+open up localhost:3000 in your browser and the application will start.
